@@ -1,4 +1,4 @@
-let firstFavNum = 7;  
+let firstFavNum = 21;  
 let secondFavNum = 3;  
 
 let additionResult = firstFavNum + secondFavNum;
