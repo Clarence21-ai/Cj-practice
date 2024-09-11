@@ -1,3 +1,3 @@
 console.log('Hello, World!');
-let name = TYPE HERE YOUR NAME;
+let name = Clarence jay;
 console.log('My name is ' + name);
