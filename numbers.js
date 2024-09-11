@@ -19,20 +19,20 @@ console.log("Modulus:", modulusResult);
 let exponentiation = firstFavNum ** secondFavNum;
 console.log("Exponentiation (Power):", exponentiationResult);
 
-let addition = firstFavNum + secondFavNum;
+let additionResult = firstFavNum + secondFavNum;
 console.log("Addition:", additionResult);
 
-let subtraction = firstFavNum - secondFavNum;
+let subtractionResult = firstFavNum - secondFavNum;
 console.log("Subtraction:", subtractionResult);
 
-let multiplication = firstFavNum * secondFavNum;
+let multiplicationResult = firstFavNum * secondFavNum;
 console.log("Multiplication:", multiplicationResult);
 
-let division = firstFavNum / secondFavNum;
+let divisionResult = firstFavNum / secondFavNum;
 console.log("Division:", divisionResult);
 
-let modulus = firstFavNum % secondFavNum;
+let modulusResult = firstFavNum % secondFavNum;
 console.log("Modulus:", modulusResult);
 
-let exponentiation = firstFavNum ** secondFavNum;
+let exponentiationResult = firstFavNum ** secondFavNum;
 console.log("Exponentiation (Power):", exponentiationResult);
