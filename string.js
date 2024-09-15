@@ -16,4 +16,4 @@ console.log(favActorLastName);
 console.log(fullName);
 console.log(uppercase);
 console.log(lowercase);
-console.log(message
+console.log(message);
